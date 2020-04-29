@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "test.dtd">
+<root>
+    <track><contor>1</contor></track>
+<date>
+    <nume>ana</nume>
+    <parola>123</parola>
+</date> 
+</root>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+    <link2>
+    <address>https://www.youtube.com/channel/UCqqMppXUKf_dBaKoF-6cXHg</address>
+    <target>_blank</target>
+    <link_text>Youtube chanel</link_text>
+</link2>
+    
+    <link1>
+        <link_url>upload.php</link_url>
+ 
+    </link1>    
+
+</root>

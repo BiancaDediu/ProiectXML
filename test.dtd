@@ -1,0 +1,19 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT root (style,date)>
+<!ATTLIST root
+  xmlns CDATA #FIXED ''>
+
+
+<!ELEMENT date (nume,parola)>
+<!ATTLIST date
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT nume (#PCDATA)>
+<!ATTLIST nume
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT parola (#PCDATA)>
+<!ATTLIST parola
+  xmlns CDATA #FIXED ''>
+
